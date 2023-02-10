@@ -2460,7 +2460,7 @@ try {
                 $ctrl.filter.Operator = 'Equals';
             }
         }
-    };
+    }
 
     angular.module('tubular.directives')
          /**
